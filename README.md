@@ -35,7 +35,4 @@ oop_creature_code/
 ---
 
 ## How to Run the Program
-
-    ```bash 
     python creature_simulation.py
-    ```
